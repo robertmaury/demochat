@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.14
 
 # install node
 RUN apk add --no-cache nodejs tini
